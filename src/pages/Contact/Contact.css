@@ -1,0 +1,13 @@
+.grow-shrink-icon-2:hover {
+    font-size: 38px !important; 
+    color: green  !important; 
+    transition: font-size 0.5s ease, color 1s ease; /* Add transition for smooth effect */
+  }
+
+  .grow-shrink-icon-1:hover {
+    font-size: 38px !important; 
+    color: red  !important; 
+    transition: font-size 0.5s ease, color 1s ease; /* Add transition for smooth effect */
+  }
+  
+  

@@ -1,0 +1,39 @@
+.project-card-1 {
+    animation: glowanim 1s infinite alternate;
+}
+
+@keyframes glowanim {
+    from {
+        box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff;
+    }
+    to {
+        box-shadow: 0 0 5px #3ABEF9, 0 0 10px #3ABEF9, 0 0 10px #3ABEF9, 0 0 10px #3ABEF9, 0 0 10px #3ABEF9, 0 0 10px #3ABEF9, 0 0 10px #3ABEF9;
+    }
+}
+
+.project-card-2 {
+    animation: glowanim2 1s infinite alternate;
+}
+
+@keyframes glowanim2 {
+    from {
+        box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff;
+    }
+    to {
+        box-shadow: 0 0 7px #FFDB00, 0 0 10px #FFDB00, 0 0 10px #FFDB00, 0 0 10px #FFDB00, 0 0 10px #FFDB00, 0 0 10px #FFDB00, 0 0 10px #FFDB00;
+    }
+}
+
+.project-card-3 {
+    animation: glowanim3 1s infinite alternate;
+}
+
+@keyframes glowanim3 {
+    from {
+        box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff;
+    }
+    to {
+        box-shadow: 0 0 10px #3ABEF9, 0 0 10px #3ABEF9, 0 0 10px #3ABEF9, 0 0 10px #3ABEF9, 0 0 10px #3ABEF9, 0 0 10px #3ABEF9, 0 0 10px #3ABEF9;
+    }
+}
+
