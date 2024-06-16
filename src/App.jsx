@@ -11,7 +11,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className='bg-dark' style={{height: '100%'}}>
+    <div className='bg-dark' style={{height: '100%',width: '100%'}}>
       <Header />
       <Home />
       <Projects />
