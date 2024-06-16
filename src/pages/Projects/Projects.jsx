@@ -14,7 +14,7 @@ const Projects = () => {
           style={{ border: "1px solid white", borderRadius: "10px",marginLeft: "20px" }}
          className="project-card-1"
         >
-          <Container className="p-2 ms-3">
+          <Container className="p-2">
             <div className="d-flex justify-content-center">
               <div>
                 <h4>Organease</h4>
@@ -41,7 +41,7 @@ const Projects = () => {
           style={{ border: "1px solid white", borderRadius: "10px", marginRight: "20px" }}
           className="project-card-2"
         >
-          <Container className="p-2 ms-3">
+          <Container className="p-2">
             <div className="d-flex justify-content-center">
               <div>
                 <h4>Hospital Management System</h4>
@@ -69,7 +69,7 @@ const Projects = () => {
           style={{ border: "1px solid white", borderRadius: "10px", marginLeft: "20px" }}
           className="project-card-3"
         >
-          <Container className="p-2 ms-3">
+          <Container className="p-2">
             <div className="d-flex justify-content-center">
               <div>
                 <h4>Freelance Projects</h4>
